@@ -1,0 +1,2 @@
+pyshorteners==1.0.1
+qrcode[pil]==7.3.1
