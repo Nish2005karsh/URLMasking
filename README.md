@@ -67,7 +67,7 @@ pip install -r requirements.txt
 ## Customization
 To add more URL shortening services:
 
-Open the maskgod.py file.
+Open the maskgod/main.py file.
 
 Locate the shorteners list.
 
